@@ -1,3 +1,4 @@
 import 'package:flutter/material.dart';
 
-Color kPrimaryColor = Colors.cyanAccent;
+const kPrimaryColor = Colors.cyanAccent;
+const kNotesBox = 'notes_box';
